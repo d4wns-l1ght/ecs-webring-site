@@ -5,7 +5,17 @@
     </head>
     <body>
         <main>
-            <p>hi sofia :)</p>
+            <h1>possible badges</h1>
+            <ol>
+                <li>
+                    <img src="img/miku.gif">
+                </li>
+                <li>
+                    <img src="img/transgender.gif"/>
+                </li>
+            </ol>
         </main>
     </body>
+    <!--#include file="footer.shtml"-->
+    <!--#include file="badges.html"-->
 </html>
